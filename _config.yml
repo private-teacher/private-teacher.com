@@ -1,1 +1,2 @@
-remote_theme:volny/stylish-portfolio-jekyll
+theme: midnight
+remote_theme: volny/stylish-portfolio-jekyll
